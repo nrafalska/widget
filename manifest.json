@@ -1,0 +1,16 @@
+{
+  "widgets": [
+    {
+      "name": "Task Scheduler",
+      "description": "Blocks task scheduling if the time slot is already taken",
+      "version": "1.0.0",
+      "author": "Your Name",
+      "url": "https://yourdomain.com/widget",
+      "base_path": "/widget",
+      "locations": [
+        "settings"
+      ]
+    }
+  ]
+}
+

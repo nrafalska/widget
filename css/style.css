@@ -1,0 +1,13 @@
+/* style.css */
+
+#saveTaskButton {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#saveTaskButton:hover {
+    background-color: #218838;
+}
